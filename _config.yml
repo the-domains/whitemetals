@@ -1,0 +1,28 @@
+name: whitemetals
+favicon: null
+layout_spectrum: 0.09573616972193122
+typography_spectrum: 0.4915159016381949
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.22180670988745987
+  lightness: 0.12056648847647011
+  saturation: 0.049114401219412684
+  rhythmicContrast: 0.28877846617251635
+purpose: []
