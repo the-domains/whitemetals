@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[whitemetals]]></title>
+        <description><![CDATA[whitemetals]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 16 Feb 2016 06:24:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Whitemetals]]></title>
+            <description><![CDATA[<article><h1>Whitemetals</h1><p>Adaptability and Flexibility First.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/886cc6f87f256a3bd5cc841a50b720f9b208d0ef.jpg"></article>]]></description>
+            <link>undefinedwhitemetals/index.html</link>
+            <guid isPermaLink="false">b673e0d6-89d2-4375-900c-eb4bee783b8a</guid>
+            <pubDate>Tue, 16 Feb 2016 06:24:57 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
