@@ -1,7 +1,7 @@
 name: whitemetals
 favicon: null
 layout_spectrum: 0
-typography_spectrum: 0.90989
+typography_spectrum: 0.89226
 title: Creative. Content. Consulting.
 cta:
   domain: null
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.5
   lightness: 1
   saturation: 1
-  rhythmicContrast: 0.25
+  rhythmicContrast: 1
 purpose: []
